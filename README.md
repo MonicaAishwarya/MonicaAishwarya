@@ -5,8 +5,6 @@ I'm R.MONICA AISHWARYA, an enthusiastic AI and Machine Learning student at Kalai
 
 ---
 
-## AI Innovator | Vibe Coder | Algorithm Enthusiast
-
 <div align="center">
 
 # About Me
@@ -197,7 +195,7 @@ I'm R.MONICA AISHWARYA, an enthusiastic AI and Machine Learning student at Kalai
 <table align="center">
   <tr>
     <td align="center" colspan="2">
-      <img src="https://img.shields.io/badge/Problems_Solved-420-4F46E5?style=for-the-badge&logo=codechef&logoColor=white" />
+      <img src="https://img.shields.io/badge/Problems_Solved-270-4F46E5?style=for-the-badge&logo=codechef&logoColor=white" />
     </td>
   </tr>
   <tr>
