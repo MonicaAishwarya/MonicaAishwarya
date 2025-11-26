@@ -24,13 +24,7 @@ I'm R.MONICA AISHWARYA, an enthusiastic AI and Machine Learning student at Kalai
 - Skilled in Python, DBMS, HTML, CSS, JavaScript with a passion for creating intelligent, innovative, and user-focused solutions.
 
 </td>
-    <td width="50%" valign="top">
-      
-<img src="https://raw.githubusercontent.com/MonicaAishwarya/MonicaAishwarya/main/123.gif" alt="Coding GIF" width="100%" />
-
-
-</td>
-  </tr>
+    
 </table>
 
 <div align="center">
