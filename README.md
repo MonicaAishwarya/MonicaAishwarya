@@ -1,4 +1,4 @@
-![Banner](./Monica Aishwarya.png)
+![Banner](https://github.com/MonicaAishwarya/Banner/blob/main/banner.png)
 
 # Welcome to My GitHub Profile!  
 I'm R.MONICA AISHWARYA, an enthusiastic AI and Machine Learning student at Kalaignarkarunanidhi Institute of Technology, Coimbatore, with a passion for transforming creative ideas into impactful, real-world projects. I love exploring the intersection of intelligence and innovation, building solutions that are both technically strong and user-focused. My uniqueness lies in my ability to blend creativity with analytical thinking, crafting clean, efficient code while ensuring clarity and purpose in everything I build. Skilled in Python, C, HTML, CSS, JavaScript, Scikit-learn, NumPy, Pandas, and Streamlit, I enjoy developing intelligent systems that make a difference — like my current projects, a Preeclamsia disease prediction that integrates real-time health tracking with AI-driven insights, and Real Time Voice alert system for municipal water supply using IOT which gives a solution to the real world problems. I believe in continuous learning, collaboration, and building technology that inspires, informs, and innovates.
