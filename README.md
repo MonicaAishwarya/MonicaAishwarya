@@ -18,7 +18,7 @@ I'm R.MONICA AISHWARYA, an enthusiastic AI and Machine Learning student at Kalai
 ## Profile
 
 - **3rd Year B.E. CSE (AI & ML)** student at **KIT – Kalaignar Karunanidhi Institute of Technology, Coimbatore, 641402.**  
-- Passionate about **Artificial Intelligence, Machine Learning, Data Science**, and **Full-Stack Development.**  
+- Passionate about **Artificial Intelligence, Machine Learning,UI/UX, Data Science**, and **Full-Stack Development.**  
 - **Completed Design Thinking course in Nptel with Elite badge.**
 - Currently developing a ** Preeclamsia disease prediction** integrating real-time analytics and AI-driven health insights.  
 - Skilled in Python, DBMS, HTML, CSS, JavaScript with a passion for creating intelligent, innovative, and user-focused solutions.
